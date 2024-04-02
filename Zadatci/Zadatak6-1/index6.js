@@ -13,7 +13,7 @@ const  upperCassing = (err, data) => {
       if(err) {
         return console.log(err);
       } else {
-        console.log("new inout");
+        console.log(`Tekst s velimi slovima: ${newText}`);
       }
     }) 
 
